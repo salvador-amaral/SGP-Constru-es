@@ -46,7 +46,7 @@ const HeroSection = () => {
         <div className="max-w-3xl">
           <div className="mb-6">
             <span className="inline-block bg-primary-600/20 text-primary-300 px-4 py-2 rounded-full text-sm font-semibold border border-primary-500/30">
-              Construção de Qualidade desde 2009
+              Construção de Qualidade desde 2000
             </span>
           </div>
           

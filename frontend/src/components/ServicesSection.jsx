@@ -95,24 +95,24 @@ const ServicesSection = () => {
           <div className="bg-gradient-to-br from-navy-900 to-navy-800 rounded-2xl p-8 md:p-12 text-white">
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
-                <h3 className="text-3xl font-bold mb-4">
+                <h3 className="text-primary-600 font-semibold text-sm uppercase tracking-wider">
                   Porque Escolher a SGP Construções?
                 </h3>
-                <p className="text-gray-300 mb-6 leading-relaxed">
+                <p className="text-navy-900 mb-6 leading-relaxed">
                   Combinamos experiência, qualidade e dedicação para entregar 
                   resultados excepcionais em cada projeto.
                 </p>
                 <div className="flex flex-wrap gap-3">
-                  <Badge variant="secondary" className="bg-primary-600/20 text-primary-300 border-primary-500/30 px-4 py-2">
+                  <Badge variant="secondary" className="bg-primary-400/20 text-primary-400 border-primary-400/30 px-4 py-2">
                     Qualidade Garantida
                   </Badge>
-                  <Badge variant="secondary" className="bg-primary-600/20 text-primary-300 border-primary-500/30 px-4 py-2">
+                  <Badge variant="secondary" className="bg-primary-400/20 text-primary-400 border-primary-400/30 px-4 py-2">
                     Prazos Cumpridos
                   </Badge>
-                  <Badge variant="secondary" className="bg-primary-600/20 text-primary-300 border-primary-500/30 px-4 py-2">
+                  <Badge variant="secondary" className="bg-primary-600/20 text-primary-400 border-primary-500/30 px-4 py-2">
                     Preços Competitivos
                   </Badge>
-                  <Badge variant="secondary" className="bg-primary-600/20 text-primary-300 border-primary-500/30 px-4 py-2">
+                  <Badge variant="secondary" className="bg-primary-600/20 text-primary-400 border-primary-500/30 px-4 py-2">
                     Equipa Certificada
                   </Badge>
                 </div>
@@ -120,20 +120,20 @@ const ServicesSection = () => {
               
               <div className="grid grid-cols-2 gap-6">
                 <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
-                  <p className="text-4xl font-bold text-primary-400 mb-2">500+</p>
-                  <p className="text-gray-300 text-sm">Projetos Concluídos</p>
+                  <p className="text-4xl font-bold text-primary-400 mb-2">Atendimento</p>
+                  <p className="text-navy-900 mb-6 leading-relaxed">Personalizado</p>
                 </div>
                 <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
-                  <p className="text-4xl font-bold text-primary-400 mb-2">15+</p>
-                  <p className="text-gray-300 text-sm">Anos no Mercado</p>
+                  <p className="text-4xl font-bold text-primary-400 mb-2">25+</p>
+                  <p className="text-navy-900 mb-6 leading-relaxed">Anos no Mercado</p>
                 </div>
                 <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
                   <p className="text-4xl font-bold text-primary-400 mb-2">100%</p>
-                  <p className="text-gray-300 text-sm">Satisfação</p>
+                  <p className="text-navy-900 mb-6 leading-relaxed">Satisfação</p>
                 </div>
                 <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
-                  <p className="text-4xl font-bold text-primary-400 mb-2">24/7</p>
-                  <p className="text-gray-300 text-sm">Suporte</p>
+                  <p className="text-4xl font-bold text-primary-400 mb-2">Design</p>
+                  <p className="text-navy-900 mb-6 leading-relaxed">Funcional</p>
                 </div>
               </div>
             </div>

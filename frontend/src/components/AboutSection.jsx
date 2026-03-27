@@ -22,7 +22,7 @@ const AboutSection = () => {
   ];
 
   const achievements = [
-    'Mais de 15 anos de experiência no mercado',
+    'Mais de 25 anos de experiência no mercado',
     'Equipa altamente qualificada e certificada',
     'Materiais de primeira qualidade',
     'Prazos cumpridos rigorosamente',
