@@ -8,8 +8,8 @@ import { toast } from 'sonner';
 import axios from 'axios';
 import { companyInfo } from '../mock';
 
-// Usar o backend Flask local diretamente
-const API = 'http://localhost:5000/api';
+// Usar o backend Flask em produção
+const API = 'https://sgp-construcoes-backend.onrender.com/api';
 
 const ContactSection = () => {
   const [formData, setFormData] = useState({
