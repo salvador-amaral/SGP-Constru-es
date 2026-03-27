@@ -98,7 +98,7 @@ const ServicesSection = () => {
                 <h3 className="text-primary-600 font-semibold text-sm uppercase tracking-wider">
                   Porque Escolher a SGP Construções?
                 </h3>
-                <p className="text-navy-900 mb-6 leading-relaxed">
+                <p className="text-white mb-6 leading-relaxed">
                   Combinamos experiência, qualidade e dedicação para entregar 
                   resultados excepcionais em cada projeto.
                 </p>

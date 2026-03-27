@@ -50,12 +50,12 @@ const HeroSection = () => {
             </span>
           </div>
           
-          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-black mb-6 leading-tight">
+          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
             Construindo o Seu
             <span className="block text-primary-400">Futuro com Confiança</span>
           </h1>
           
-          <p className="text-xl text-black mb-8 leading-relaxed">
+          <p className="text-xl text-white mb-8 leading-relaxed">
             Especialistas em pintura de edifícios, pavimentação e tratamento de telhados. 
             Qualidade, profissionalismo e compromisso em cada projeto.
           </p>
@@ -86,7 +86,7 @@ const HeroSection = () => {
                 <Award className="text-primary-400" size={24} />
                 <span className="text-3xl font-bold text-white">25+</span>
               </div>
-              <p className="text-gray-300 text-sm">Anos de Experiência</p>
+              <p className="text-gray-300 text-sm">Anos de experiência</p>
             </div>
             <div className="text-center sm:text-left">
               <div className="flex items-center justify-center sm:justify-start gap-2 mb-2">
