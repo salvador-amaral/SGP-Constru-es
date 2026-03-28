@@ -70,12 +70,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="flex flex-col items-center border-t border-gray-700 mt-8 pt-8 text-center">
-          <img
-            src={companyInfo.logo}
-            alt="Logo SGP"
-            className="h-16 w-auto mb-4"
-          />
+        <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-400 text-sm">
             &copy; {new Date().getFullYear()} {companyInfo.name}. Todos os direitos reservados.
           </p>

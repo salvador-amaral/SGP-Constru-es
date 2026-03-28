@@ -95,10 +95,10 @@ const ServicesSection = () => {
           <div className="bg-gradient-to-br from-navy-900 to-navy-800 rounded-2xl p-8 md:p-12 text-white">
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
-                <h3 className="text-primary-600 font-semibold text-sm uppercase tracking-wider">
+                <h3 className="text-navy-900 font-bold text-4xl mb-4">
                   Porque Escolher a SGP Construções?
                 </h3>
-                <p className="text-white mb-6 leading-relaxed">
+                <p className="text-gray-600 mb-6 leading-relaxed">
                   Combinamos experiência, qualidade e dedicação para entregar 
                   resultados excepcionais em cada projeto.
                 </p>

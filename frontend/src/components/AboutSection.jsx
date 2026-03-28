@@ -60,8 +60,8 @@ const AboutSection = () => {
                 <div className="absolute inset-0 bg-gradient-to-t from-navy-900/50 to-transparent" />
               </div>
               <div className="absolute -bottom-6 -right-6 bg-primary-600 text-white p-8 rounded-2xl shadow-xl">
-                <p className="text-5xl font-bold">15+</p>
-                <p className="text-sm font-semibold">Anos de Excelência</p>
+                <p className="text-5xl font-bold">25+</p>
+                <p className="text-sm font-semibold">Anos de Experiência</p>
               </div>
             </div>
 

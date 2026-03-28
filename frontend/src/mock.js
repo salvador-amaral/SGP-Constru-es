@@ -6,7 +6,7 @@ export const companyInfo = {
   address: "R. Madrid, 2415-000 Leiria",
   phone: "915966433",
   email: "sgpcontrucoes24@gmail.com",
-  nif: "504 863 495",
+  nif: "215 988 787",
   schedule: {
     weekdays: "Segunda a Sexta-feira: 9:30 - 18:30",
     weekend: "Sábado e Domingo: Encerrado"
@@ -124,9 +124,7 @@ export const testimonials = [
 ];
 
 export const heroImages = [
-  "https://images.unsplash.com/photo-1651195297119-afc97f14a40d",
-  "https://images.unsplash.com/photo-1541888946425-d81bb19240f5",
-  "https://images.unsplash.com/photo-1601074231509-dce351c05199"
+  "https://www.gettyimages.pt/detail/foto/portrait-of-engineer-reading-plans-on-construction-imagem-royalty-free/1311801651"
 ];
 
 // Mock para mensagens de contacto (frontend only)
