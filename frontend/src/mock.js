@@ -11,7 +11,7 @@ export const companyInfo = {
     weekdays: "Segunda a Sexta-feira: 9:30 - 18:30",
     weekend: "Sábado e Domingo: Encerrado"
   },
-  logo: "../../assets/Captura de ecrã 2026-03-24 222946.png"
+  logo: "/assets/Captura de ecrã 2026-03-24 222946.png"
 };
 
 export const services = [
@@ -61,7 +61,7 @@ export const portfolioProjects = [
     id: 1,
     title: "Pintura Edifício Residencial",
     category: "Pintura",
-    afterImage: "../../assets/475461958_543366968725866_2261055939045929780_n.jpg",
+    afterImage: "/assets/475461958_543366968725866_2261055939045929780_n.jpg",
     description: "Pintura exterior completa de edifício residencial",
     hasBeforeAfter: false
   },
@@ -69,7 +69,7 @@ export const portfolioProjects = [
     id: 2,
     title: "Pavimentação e Sistema de Drenagem",
     category: "Pavimentação",
-    afterImage: "../../assets/475438775_543367105392519_2870825394312428195_n.jpg",
+    afterImage: "/assets/475438775_543367105392519_2870825394312428195_n.jpg",
     description: "Pavimentação com canal de drenagem integrado",
     hasBeforeAfter: false
   },
@@ -77,8 +77,8 @@ export const portfolioProjects = [
     id: 3,
     title: "Lavagem e Tratamento de Telhado",
     category: "Telhados",
-    beforeImage: "../../assets/475971976_544896985239531_4366768517566800410_n.jpg",
-    afterImage: "../../assets/475790344_544897061906190_2448852269852246652_n.jpg",
+    beforeImage: "/assets/475971976_544896985239531_4366768517566800410_n.jpg",
+    afterImage: "/assets/475790344_544897061906190_2448852269852246652_n.jpg",
     description: "Lavagem profunda e tratamento anti-humidade de telhado",
     hasBeforeAfter: true
   },
@@ -86,7 +86,7 @@ export const portfolioProjects = [
     id: 4,
     title: "Pintura Fachada de Edifício",
     category: "Pintura",
-    afterImage: "../../assets/475056686_541438622252034_9172766005836072019_n.jpg",
+    afterImage: "/assets/475056686_541438622252034_9172766005836072019_n.jpg",
     description: "Renovação completa da fachada de edifício",
     hasBeforeAfter: false
   }
