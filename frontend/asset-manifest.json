@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salvador-amaral.github.io/SGP-Construcoes/static/css/main.544c74d7.css",
+    "main.js": "/salvador-amaral.github.io/SGP-Construcoes/static/js/main.95c9dd8c.js",
+    "index.html": "/salvador-amaral.github.io/SGP-Construcoes/index.html",
+    "main.544c74d7.css.map": "/salvador-amaral.github.io/SGP-Construcoes/static/css/main.544c74d7.css.map",
+    "main.95c9dd8c.js.map": "/salvador-amaral.github.io/SGP-Construcoes/static/js/main.95c9dd8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.544c74d7.css",
+    "static/js/main.95c9dd8c.js"
+  ]
+}
