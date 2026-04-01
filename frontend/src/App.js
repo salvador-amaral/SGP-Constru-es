@@ -8,7 +8,6 @@ import AboutSection from "@/components/AboutSection";
 import ServicesSection from "@/components/ServicesSection";
 import PortfolioSection from "@/components/PortfolioSection";
 import ContactSection from "@/components/ContactSection";
-import { Toaster } from "sonner";
 
 const Home = () => {
   return (
@@ -22,7 +21,6 @@ const Home = () => {
         <ContactSection />
       </main>
       <Footer />
-      <Toaster position="top-right" richColors />
     </div>
   );
 };
