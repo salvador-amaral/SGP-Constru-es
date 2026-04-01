@@ -36,6 +36,9 @@ def add_contact():
 
     # Enviar email
     try:
+        if not SMTP_USER or not SMTP_PASS:
+            return jsonify({'error': 'Erro ao enviar email', 'detail': 'Email credentials not configured'}), 500
+        
         msg = EmailMessage()
         msg['Subject'] = f'Novo contacto de {contact["name"]} via site'
         msg['From'] = SMTP_USER  # Remetente: email autenticado do backend
