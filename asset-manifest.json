@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SGP-Construcoes/static/css/main.544c74d7.css",
+    "main.js": "/SGP-Construcoes/static/js/main.942a8bd2.js",
+    "index.html": "/SGP-Construcoes/index.html",
+    "main.544c74d7.css.map": "/SGP-Construcoes/static/css/main.544c74d7.css.map",
+    "main.942a8bd2.js.map": "/SGP-Construcoes/static/js/main.942a8bd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.544c74d7.css",
+    "static/js/main.942a8bd2.js"
+  ]
+}
