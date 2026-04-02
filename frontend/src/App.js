@@ -28,7 +28,7 @@ const Home = () => {
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/SGP-Construcoes">
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>
